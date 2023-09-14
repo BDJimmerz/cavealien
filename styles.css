@@ -1,7 +1,8 @@
 body {
   background-image: url("darkwall.jpg");
   background-color: #000000;
-  background-size: 100%
+  background-size: 100%;
+  background-attachment: fixed;
  }
 
 
